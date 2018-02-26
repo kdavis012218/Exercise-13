@@ -18,8 +18,17 @@ namespace ConsoleApp71
             {
                 Console.WriteLine();
                 {
-
-                    Console.ReadKey();
+                    Console.WriteLine("Would you like to continue?");
+                    Console.ReadLine();
+                    if response = "y";
+                    {
+                        return
+                    }
+                    else
+                    
+                        Console.ReadKey();
+                   
+                    
 
                 }
             }
